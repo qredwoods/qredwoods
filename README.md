@@ -8,11 +8,12 @@ Seeking 2026 Spring/Summer/Fall Internships in San Francisco Bay Area. (In-perso
 
 Python | SQL | Javascript | x86 Assembly | HTML/CSS
 
-**Frameworks**
+**Frameworks and Tools**
 
-Flask | FastAPI | MongoDB | React | Node 
+Flask | FastAPI | MongoDB | React | Node | Github Actions | Docker
 
 **Projects**
+
 Open source contributions to safehome.report backend
 
 Exercise Tracker, MERN app
