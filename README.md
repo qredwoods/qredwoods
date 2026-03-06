@@ -20,7 +20,7 @@ Open source contributions to [safehome.report (site)](https://safehome.report) [
 
 [Creatorverse](https://github.com/qredwoods/Creatorverse) - React, Supabase
 
-[Atomic Chess](https://github.com/qredwoods/Terminal-Atomic-Chess]) - Python
+[Atomic Chess](https://github.com/qredwoods/Terminal-Atomic-Chess) - Python
 
 ## About Me
 I'm a career changer with prior backgrounds in nonprofit leadership and DevOps tooling sales.
