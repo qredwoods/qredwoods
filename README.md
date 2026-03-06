@@ -6,7 +6,7 @@ Seeking 2026 Spring/Summer/Fall Internships in San Francisco Bay Area. (In-perso
 
 **Languages**
 
-Python | SQL | Javascript | x86 Assembly | HTML/CSS
+Python | SQL | JavaScript | x86 Assembly | HTML/CSS
 
 **Frameworks and Tools**
 
@@ -14,11 +14,13 @@ Flask | FastAPI | MongoDB | React | Node | Github Actions | Docker
 
 **Projects**
 
-Open source contributions to safehome.report backend
+Open source contributions to [safehome.report (site)](https://safehome.report) [(repo)](https://github.com/sfbrigade/datasci-earthquake) - FastAPI, Docker, GitHub Actions
 
-Exercise Tracker, MERN app
+[Exercise Tracker](https://github.com/qredwoods/exercisetracker) - Express, JavaScript, Node.js, React, MongoDB (MERN stack)
 
-Python Atomic Chess for terminal
+[Creatorverse](https://github.com/qredwoods/Creatorverse) - React, Supabase
+
+[Atomic Chess](https://github.com/qredwoods/Terminal-Atomic-Chess]) - Python
 
 ## About Me
-I'm a career changer with prior backgrounds in devops marketing and nonprofits.
+I'm a career changer with prior backgrounds in nonprofit leadership and DevOps tooling sales.
