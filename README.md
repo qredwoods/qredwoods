@@ -1,26 +1,31 @@
 # Hi, I'm Quinn 🌲🌲🌲
-[qredwoods.com](https://qredwoods.com)
+Full-stack developer and CS student at Oregon State University.
 
-I'm a CS Bachelor's Student at Oregon State University.
-Seeking 2026 Spring/Summer/Fall Internships in San Francisco Bay Area. (In-person, Hybrid, Remote)
+[qredwoods.com](https://qredwoods.com) | Seeking SF Bay Area SWE roles
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-Python | SQL | JavaScript | x86 Assembly | HTML/CSS
-
-**Frameworks and Tools**
-
-Flask | FastAPI | MongoDB | React | Node | Github Actions | Docker
 
 **Projects**
 
-Open source contributions to [safehome.report (site)](https://safehome.report) [(repo)](https://github.com/sfbrigade/datasci-earthquake) - FastAPI, Docker, GitHub Actions
 
-[Exercise Tracker](https://github.com/qredwoods/exercisetracker) - Express, JavaScript, Node.js, React, MongoDB (MERN stack)
 
-[Creatorverse](https://github.com/qredwoods/Creatorverse) - React, Supabase
+[SparkMvmt](https://github.com/qredwoods/exercisetracker) - Full-stack exercise tracker with JWT auth, deploying on AWS (EC2, ALB, S3, CloudFront). MERN stack + Docker.
 
-[Atomic Chess](https://github.com/qredwoods/Terminal-Atomic-Chess) - Python
+Open source contributions to [safehome.report (site)](https://safehome.report) [(repo)](https://github.com/sfbrigade/datasci-earthquake) Back end team - FastAPI, Docker, GitHub Actions
 
-## About Me
-I'm a career changer with prior backgrounds in nonprofit leadership and DevOps tooling sales.
+[Atomic Chess](https://github.com/qredwoods/Terminal-Atomic-Chess) - Terminal-based chess variant with explosion mechanics, per-piece move validation, and own-king safety logic. Python
+
+## Background
+Career changer. Previously founded Mask Oakland, a crisis-response org that distributed 400,000+ masks during wildfire and COVID emergencies (featured in NYT, The New Yorker, NPR, The Guardian). Worked in DevOps-focused sales at Honeycomb and Bunnyshell; working with software engineers inspired me to become one.
