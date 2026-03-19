@@ -21,7 +21,7 @@ Full-stack developer and CS student at Oregon State University.
 
 
 
-[SparkMvmt](https://github.com/qredwoods/exercisetracker) - Full-stack exercise tracker with JWT auth, deploying on AWS (EC2, ALB, S3, CloudFront). MERN stack + Docker.
+[SparkMvmt](https://github.com/qredwoods/exercisetracker) - [Site](https://sparkmvmt.com) - Full-stack exercise tracker with JWT auth, deployed on EC2. MERN stack + Docker.
 
 Open source contributions to [safehome.report (site)](https://safehome.report) [(repo)](https://github.com/sfbrigade/datasci-earthquake) Back end team - FastAPI, Docker, GitHub Actions
 
